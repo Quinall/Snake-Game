@@ -36,7 +36,3 @@ This Snake Game is a classic arcade game where the player controls a snake that 
 
 Contributions to this project are welcome. If you have any suggestions or improvements, feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
