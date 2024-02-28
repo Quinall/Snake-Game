@@ -30,7 +30,9 @@ This project is a classic Snake Game where the player controls a snake that move
 
 ## Screenshots
 
-[Add screenshots here]
+![image](https://github.com/Quinall/Snake-Game/assets/161454235/cfa183a0-65bd-404a-bf1b-78b181ea348a)
+
+![image](https://github.com/Quinall/Snake-Game/assets/161454235/bf45dc66-53a1-455f-9e1f-c133f888a301)
 
 ## Contributions
 
